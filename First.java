@@ -1,5 +1,6 @@
 class First{
 public static void main(String ar[]){
-Sysytem.out.println("Hello World");
+System.out.println("Hello World");
+  System.out.println("Hello Universe");
 }
 }
